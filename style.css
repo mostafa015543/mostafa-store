@@ -1,0 +1,225 @@
+header {
+    background-color: #444;
+    text-transform: capitalize;
+    text-shadow: 8px 1px 3px black;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin: -9px;
+    /* letter-spacing: ;   word-spacing*/
+    /* text-indent: ده علشان يسيب مكان فاضى قبل الكلام; */
+    /* line-height: ;***************************** */
+
+    font-family: serif;
+    word-spacing: 10px;
+}
+
+
+body {
+    text-transform: capitalize;
+    direction: ltr;
+    word-break: break-all;
+    /* background-image: url(../308f03a0-5b4f-48e1-98d8-1edb09aa26ac.webp); */
+}
+
+/* .mostafa { */
+/* text-align: center; */
+/* font-size: 50px; */
+
+/* background-image: url(../خلفية.jfif); */
+/* background-color: beige;
+    padding: 10px;
+    margin: auto;
+    width: 80%;
+    background-color: beige;
+    border-style: double;
+    border-width: 5px;
+    border-radius: 50px;
+    outline-width: 3px;
+    outline-style: double;
+    outline-color: bisque; */
+/* display: none;
+}
+
+
+
+
+body {
+
+    /* background-image: url(../خلفية.jfif); */
+/* background-size: contain;
+    /* background-position: center;
+    background-repeat: no-repeat; */
+/* background-color: rgb(255, 255, 255); */
+/* overflow: scroll; */
+
+/* } */
+
+
+
+.ipone1 {
+
+    border-bottom: 5px solid aqua;
+    margin-left: 25%;
+    color: aqua;
+
+}
+
+.samsung1 {
+
+    border-bottom: 5px solid black;
+    margin-left: 50%;
+    color: black;
+
+}
+
+.infinix1 {
+
+    border-bottom: 5px solid blue;
+    margin-left: 75%;
+    color: blue;
+
+}
+
+.oppo1 {
+
+    border-bottom: 5px solid red;
+    margin-left: 100%;
+    color: red;
+
+}
+
+.typephoto{
+    cursor: pointer;
+    height: 35px;
+    width: 48px;
+    margin: 2px;
+    padding: 5px;
+}
+
+.ipone1,
+.samsung1,
+.infinix1,
+.oppo1 {
+    width: 15px;
+    margin: 25px;
+    padding: 4px;
+    /* background-color: cornsilk; */
+    display: inline;
+    vertical-align: super;
+    cursor: pointer;
+
+}
+
+.photo {
+    width: 300px;
+    height: 300px;
+    border-radius: 20px;
+    margin: auto;
+}
+
+.title {
+    color: #000000;
+    font-size: 25px;
+    font-style: oblique;
+    text-emphasis: open;
+    word-spacing: 8px;
+    font-weight: bold;
+    letter-spacing: 5px;
+    text-emphasis-position: under right;
+    outline-style: solid;
+    padding: 2px;
+    margin: 2px;
+    display: ruby-text;
+}
+
+
+
+.ol {
+    background-color: white;
+    /* padding: 20px; */
+    border: 1px solid #ddd;
+    border-radius: 30px;
+    max-width: 500px;
+    margin: 50%;
+    height: auto;
+    /* margin-bottom: 2px; */
+    margin: 5px;
+    font-size: 1rem;
+
+
+}
+
+.iphone15,
+.iphone14,
+.oppo-remno-13-pro-5g,
+.Oppo-Find-X8,
+.oppo-find-n5,
+.iphone13,
+.S24-Ultra,
+.Z-Fold6,
+.S23-FE,
+.infinix50-Pro,
+.infinix40S,
+.infinix50-Pro-Plus {
+
+    /* background-color: white; */
+    /* padding: 20px; */
+    /* border: 1px solid #ddd; */
+    /* border-radius: 30px; */
+    /* max-width: 550px; */
+    /* margin: 5000px; */
+    /* height: auto; */
+    /* margin-bottom: 2px; */
+    /* margin: 5px; */
+    /* font-size: 1rem; */
+
+    background-color: white;
+    padding: 20px;
+    border: 2px solid #ddd;
+    border-radius: 5px;
+    max-width: 600px;
+    margin: auto;
+    border-bottom: 5px solid silver;
+
+    /* display: inline; */
+    /* border: inherit الكلمة دى معناها تورث يعنى هتورث من ال ديف اللى هو فيه ; */
+
+}
+
+
+
+
+form {
+    background-color: white;
+    padding: 20px;
+    border: 2px solid #ddd;
+    border-radius: 5px;
+    max-width: 600px;
+    margin: auto;
+}
+
+form label {
+    display: block;
+    margin-bottom: 2px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bold;
+    text-transform: capitalize;
+}
+
+form input,
+form textarea,
+form button {
+    width: 102%;
+    margin-bottom: 2px;
+    padding: 1px;
+    font-size: 1rem;
+    border-radius: 7px;
+    /* overflow: auto; */
+}
+
+hr {
+    padding: 3px;
+    width: 600px;
+    border-block-color: silver;
+}
