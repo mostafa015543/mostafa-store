@@ -1,3 +1,10 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
 header {
     background-color: #444;
     text-transform: capitalize;
@@ -66,17 +73,6 @@ header li a:hover{
     transition: 1s;
     /* transform: translate(10px,3px); */
 }
-
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    scroll-behavior: smooth;
-}
-
-
-
-
 
 body {
     text-transform: capitalize;
@@ -213,8 +209,8 @@ body {
     
     content: counter(counter);
     counter-increment: counter;
-    background-color: #ff0000;
-    color: #ddd;
+    background-color: #444;
+    color: white;
     position: absolute;
     font-size: 39px;
     font-weight: bold;
@@ -258,7 +254,7 @@ body {
     outline-style: solid;
     padding: 2px;
     margin: 2px;
-    display: ruby-text;
+    /* display: ruby-text; */
 }
 
 
