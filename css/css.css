@@ -209,8 +209,8 @@ body {
     
     content: counter(counter);
     counter-increment: counter;
-    background-color: #ff0000;
-    color: #ddd;
+    background-color: #444;
+    color: white;
     position: absolute;
     font-size: 39px;
     font-weight: bold;
@@ -254,7 +254,7 @@ body {
     outline-style: solid;
     padding: 2px;
     margin: 2px;
-    display: ruby-text;
+    /* display: ruby-text; */
 }
 
 
